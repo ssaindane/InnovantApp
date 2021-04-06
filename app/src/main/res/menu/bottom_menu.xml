@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/app_color"
+        android:title="Home"></item>
+
+    <item
+        android:id="@+id/brands"
+        android:icon="@drawable/ic_branding"
+        android:iconTint="@color/app_color"
+        android:title="Brands"></item>
+
+    <item
+        android:id="@+id/categories"
+        android:icon="@drawable/ic_dashboard"
+        android:iconTint="@color/app_color"
+        android:title="Categories"></item>
+
+    <item
+        android:id="@+id/bag"
+        android:icon="@drawable/ic_shopping_bag"
+        android:iconTint="@color/app_color"
+        android:title="My Bag"></item>
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_account_circle"
+        android:iconTint="@color/app_color"
+        android:title="Account"></item>
+</menu>
